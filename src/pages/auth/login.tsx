@@ -8,7 +8,7 @@ const LoginPage = () => {
     }
     return (
         <div>
-            <h1>Login Page</h1>
+            <h1>Login Page 1</h1>
             <button onClick={() => handlerLogin()}>Login</button>
             <p>
                 Belum punya akun? registerasi <Link href={"/auth/register"}>disini</Link>
